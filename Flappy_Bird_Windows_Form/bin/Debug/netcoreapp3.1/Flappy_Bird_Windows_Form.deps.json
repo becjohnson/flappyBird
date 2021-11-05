@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Flappy_Bird_Windows_Form/1.0.0": {
+        "runtime": {
+          "Flappy_Bird_Windows_Form.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flappy_Bird_Windows_Form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
